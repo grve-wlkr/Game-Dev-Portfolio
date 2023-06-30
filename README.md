@@ -1,2 +1,6 @@
-# Game-Dev-Portfolio
-My game developer Portfolio .
+My Game Development Portfolio.
+Here, is the name of the website for my Game Dev Portfolio.          
+"https://grve-wlkr.github.io/Portfolio/".
+
+StupidBirds2D sample gameplay "https://youtu.be/trYmXydZFAk"
+
